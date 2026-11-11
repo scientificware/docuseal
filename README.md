@@ -4,7 +4,7 @@
       <img  alt="DocuSeal" src="https://github.com/user-attachments/assets/38b45682-ffa4-4919-abde-d2d422325c44" width="80" />
       <br>
     </a>
-    DocuSeal
+    DocuSeal - ScientificWare Version
   </div>
 </h1>
 <h3 align="center">
@@ -22,8 +22,12 @@
   </a>
 </p>
 <p>
+Welcome to this DocuSeal fork. This space allows us to track, monitor, and contribute to the development of DocuSeal. As with all the products we use, we strive to take an active part in their development in order to secure our toolchain.
+</p>
+<p>
 DocuSeal is an open source platform that provides secure and efficient digital document signing and processing. Create PDF forms to have them filled and signed online on any device with an easy-to-use, mobile-optimized web tool.
 </p>
+<p>About us : <a href="https://scientificware.com">ScientificWare</a> is an initiative dedicated to developing and maintaining digital tools for scientific learning and research, actively contributing to open-source software to ensure a reliable and secure toolchain.</p>
 <h2 align="center">
   <a href="https://demo.docuseal.tech">✨ Live Demo</a>
   <span>|</span>
